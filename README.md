@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, OpenCV, Python.**
 
-- 💬 Ask me about **ROS(Robot Operating System)**
+- 💬 Ask me about **ROS(Robot Operating System),Image Processing**
 
 - 📫 How to reach me **vikeesalunkhe.work@gmail.com**
 
