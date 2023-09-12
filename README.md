@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ROS**
 
-- 🌱 I’m currently learning **Computer Vision, OpenCV, Python.**
+- 🌱 I’m currently learning **Computer Vision(OpenCV), Python, Machine Learning.**
 
 - 💬 Ask me about **ROS(Robot Operating System),Image Processing**
 
