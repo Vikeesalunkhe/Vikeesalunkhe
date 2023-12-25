@@ -1,4 +1,4 @@
-![Logo](https://media.licdn.com/dms/image/D5616AQE9vwGx9w2ezg/profile-displaybackgroundimage-shrink_350_1400/0/1680514944035?e=1698883200&v=beta&t=2iWzBGYNLpmREhJMkproddyNO3fnCvhMbpPm0Vlp7fI)
+![linkdin_back_cover](https://github.com/Vikeesalunkhe/Vikeesalunkhe/assets/117392336/bfd884e3-10e6-482b-8fd8-4772e3098bb1)
 
 <h1 align="center">Hi 👋, I'm Vikee Salunkhe</h1>
 
