@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif">
 
-- 🔭 I’m currently working on **ROS**
+- 🔭 I’m currently working on **Robot Operating System(ROS)**
 
 - 🌱 I’m currently learning **Computer Vision(OpenCV), Python, Machine Learning.**
 
